@@ -1,0 +1,13 @@
+/* Global Styling */
+.notificationCustomBar{
+    margin-top:60px !important;
+}
+.infoTooltip{
+    font-size:12px !important;
+}
+.dialogTitle{
+    font-size:15px !important;
+}
+.tableTitleCustom .text-start{
+    font-size:13px !important;
+}
